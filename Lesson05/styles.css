@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(182, 246, 255);
+    font-family: sans-serif;
+    color: rgb(92, 92, 92);
+    width: 885px;
+}
+h1 {
+    font-size: xxx-large;
+    text-shadow: 3px 3px rgb(148, 206, 214);
+  }
+h2 {
+    font-size: xx-large;
+    color: rgb(0, 123, 139);
+    font-family: 'Courier';
+}
